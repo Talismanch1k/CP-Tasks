@@ -1,4 +1,4 @@
 # CP-Tasks
-So this repository for Compepetive Programming tasks that i solved. 
-Tasks splitted by sites.
+So this repository for Competitive Programming tasks that i solved. \n
+Tasks splitted by sites. \n
 Language - C++
