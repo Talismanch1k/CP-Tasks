@@ -15,7 +15,7 @@ public:
         int r = matrix.size();
         int c = matrix[0].size();
         int i = 1;
-        while(matrix[i][c-1]<target && i<r-1){ // here may ne need equal
+        while(matrix[i][c-1]<target && i<r-1){
             ++i; 
         }
         return binsrch(matrix, i, target);
